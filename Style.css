@@ -1,0 +1,60 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+a {
+	text-decoration: none;
+	transition: 0.5s;
+	color: #FFF;
+}
+a:hover {
+	opacity: 0.8;
+}
+.logo {
+	font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+}
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+	background: #1d1b1c;
+	height: 8vh;
+}
+main {
+	background: url("mestre-yoda.jpg") no-repeat center center;
+	background-size: cover;
+	height: 92vh;
+}
+	.navigation {
+		list-style: none;
+		display: flex;
+	
+	}
+	.navigation li {
+		letter-spacing: 3px;
+		margin-left: 32px;
+	}
+	.menu{
+		cursor: pointer;
+		display: none;
+	}
+	.menu div {
+		width: 32px;
+		height: 2px;
+		background: #fff;
+		margin: 8px;
+	}
+	table{
+  width: 50%;
+  text-align: center;
+}
+	p{
+  text-align: rigth;
+  font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+  font-size: 25px;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	}

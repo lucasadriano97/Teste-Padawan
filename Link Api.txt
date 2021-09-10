@@ -1,0 +1,5 @@
+Post: https://jsonplaceholder.typicode.com/posts/
+
+Album: https://jsonplaceholder.typicode.com/albums
+
+Todos: https://jsonplaceholder.typicode.com/todos/
